@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # shop
 ### 基于hapi的Node.js小程序后端开发
 ```
