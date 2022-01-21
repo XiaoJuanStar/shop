@@ -19,7 +19,7 @@
     "inert": "^4.2.1",
     "joi": "^13.7.0",
     "jsonwebtoken": "^8.4.0",
-    "log4js": "^4.0.1",
+    "log4js": "^6.4.0",
     "mysql2": "^1.6.4",
     "package": "^1.0.1",
     "sequelize": "^4.42.0",
